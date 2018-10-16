@@ -9,6 +9,7 @@ These tutorials use the [reStructuredText](http://www.sphinx-doc.org/en/stable/r
 This repository is currently built automatically by two systems:
 - [![Travis Build Status](https://travis-ci.org/ros-planning/moveit_tutorials.svg?branch=master)](https://travis-ci.org/ros-planning/moveit_tutorials) [Github Pages + Travis](https://ros-planning.github.io/moveit_tutorials/): latest
 - [![ROS Kinetic Builfarm Status](http://build.ros.org/buildStatus/icon?job=Kdoc__moveit_tutorials__ubuntu_xenial_amd64)](http://build.ros.org/job/Kdoc__moveit_tutorials__ubuntu_xenial_amd64/) [ROS Kinetic Build Farm](http://docs.ros.org/kinetic/api/moveit_tutorials/html/)
+- [![ROS Melodic Builfarm Status](http://build.ros.org/buildStatus/icon?job=Kdoc__moveit_tutorials__ubuntu_xenial_amd64)](http://build.ros.org/job/Kdoc__moveit_tutorials__ubuntu_xenial_amd64/) [ROS Melodic Build Farm](http://docs.ros.org/melodic/api/moveit_tutorials/html/)
 - [![Build Status](http://build.ros.org/buildStatus/icon?job=Idoc__moveit_tutorials__ubuntu_trusty_amd64)](http://build.ros.org/job/Idoc__moveit_tutorials__ubuntu_trusty_amd64/) [ROS Indigo Build Farm](http://docs.ros.org/indigo/api/moveit_tutorials/html/)
 
 
